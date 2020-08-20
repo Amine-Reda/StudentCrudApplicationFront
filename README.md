@@ -1,4 +1,4 @@
-# Crud Student Application
+# Student Crud Application
 
 ### [Live Site](https://quirky-roentgen-77da11.netlify.app//)
 first you should run the backend part!!! =>(https://github.com/Amine-Reda/StudentCrudAppliationBack)
