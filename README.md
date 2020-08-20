@@ -1,3 +1,9 @@
+# Crud Student Application
+
+### [Live Site](https://covid19statswebsite.netlify.com/)
+
+![CrudApplication](assets/crudApplication.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
