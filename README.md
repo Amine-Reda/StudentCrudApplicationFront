@@ -1,6 +1,7 @@
 # Crud Student Application
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
+### [Live Site](https://quirky-roentgen-77da11.netlify.app//)
+first you should run the backend part!!!
 
 ![CrudApplication](assets/crudApplication.jpg)
 
